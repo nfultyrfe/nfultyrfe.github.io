@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nfultyrfe.github.io/sitemap.html.gz
+Sitemap: https://nfultyrfe.github.io/app/sitemap.html.gz
+Sitemap: https://nfultyrfe.github.io/assets/sitemap.html.gz
+Sitemap: https://nfultyrfe.github.io/css/sitemap.html.gz
+Sitemap: https://nfultyrfe.github.io/includes/sitemap.html.gz
+Sitemap: https://nfultyrfe.github.io/item/sitemap.html.gz
+Sitemap: https://nfultyrfe.github.io/src/sitemap.html.gz
